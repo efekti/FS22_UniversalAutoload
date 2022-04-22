@@ -8,6 +8,7 @@
         <en>Universal Autoload</en>
 		<de>Universal Autoload</de>
 		<fr>Autoload Universel</fr>
+		<fi>Universal Autoload</fi>					 
 		<ru>Универсальная автозагрузка</ru>
 		<nl>Universele Autoload</nl>
 		<cz>Univerzální Autoload</cz>
@@ -313,6 +314,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Toggle loading</en>
 			<de>Laden umschalten</de>
 			<fr>Activer le chargement</fr>
+			<fi>Vaihda lastaus</fi>			  
 			<ru>Переключить загрузку</ru>
 			<nl>Laden starten/stoppen</nl>
 			<cz>Přepnout nakládání</cz>
@@ -322,6 +324,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Unload</en>
 			<de>Abladen</de>
 			<fr>Décharger tous</fr>
+			<fi>Pura</fi>	
 			<ru>Разгрузка</ru>
 			<nl>Lossen</nl>
 			<cz>Vyložit</cz>
@@ -331,6 +334,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Toggle unloading side</en>
 			<de>Aktive entladeseite umschalten</de>
 			<fr>Choix du côté actif</fr>
+			<fi>Vaihda purku puoli</fi>				  
 			<ru>Сменить сторону разгрузки</ru>
 			<nl>Schakelaar loszijde</nl>
 			<cz>Přepnout stranu vykládky</cz>
@@ -340,6 +344,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Toggle loading filter</en>
 			<de>Ladefilter umschalten</de>
 			<fr>Sélection du chargement</fr>
+			<fi>Vaihda lastaus suodatin</fi>					   
 			<ru>Переключить фильтр загрузки</ru>
 			<nl>Schakelaar laad filter</nl>
 			<cz>Přepnout filtr nakládky</cz>
@@ -349,6 +354,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Change selected material type (next)</en>
 			<de>Materialtyp wechseln (vorwärts)</de>
 			<fr>Sélection du type de marchandise (suivant)</fr>
+			<fi>Vaihda valittun materiaalityyppiä (seuraava)</fi>											 
 			<ru>Изменить выбранный тип материала (след.)</ru>
 			<nl>Geselecteerd producttype wijzigen (volgende)</nl>
 			<cz>Změnit vybraný typ materiálu (další)</cz>
@@ -358,6 +364,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Change selected material type (previous)</en>
 			<de>Materialtyp wechseln (rückwärts)</de>
 			<fr>Sélection du type de marchandise (précédent)</fr>
+			<fi>Vaihda valittun materiaalityyppiä (edellinen)</fi>											  
 			<ru>Изменить выбранный тип материала (пред.)</ru>
 			<nl>Geselecteerd producttype wijzigen (vorige)</nl>
 			<cz>Změnit vybraný typ materiálu (předchozí)</cz>
@@ -367,6 +374,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Select all material types</en>
 			<de>Alle Materialtyp auswählen</de>
 			<fr>Sélectionner tous types de marchandises</fr>
+			<fi>Valitse kaikki materiaalityypit</fi>							   
 			<ru>Выбрать все типы материалов</ru>
 			<nl>Selecteer alle producttypes</nl>
 			<cz>Vyberte všechny typy materiálů</cz>
@@ -376,6 +384,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Change selected container type (next)</en>
 			<de>Containertyp wechseln (vorwärts)</de>
 			<fr>Sélection du type de conditionnement (suivant)</fr>
+			<fi>Muuta valittun säilön tyyppiä (seuraava)</fi>										   
 			<ru>Изменить выбранный тип контейнера (след.)</ru>
 			<nl>Geselecteerd containertype wijzigen (volgende)</nl>
 			<cz>Změnit vybraný typ kontejneru (další)</cz>
@@ -385,6 +394,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Change selected container type (previous)</en>
 			<de>Containertyp wechseln (rückwärts)</de>
 			<fr>Sélection du type de conditionnement (précédent)</fr>
+			<fi>Muuta valittun säilön tyyppiä (edellinen)</fi>											
 			<ru>Изменить выбранный тип контейнера (пред.)</ru>
 			<nl>Geselecteerd containertype wijzigen (vorige)</nl>
 			<cz>Změnit vybraný typ kontejneru (předchozí)</cz>
@@ -394,6 +404,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Select all container types</en>
 			<de>Alle Containertypen auswählen</de>
 			<fr>Sélectionner tous types de conditionnement</fr>
+			<fi>Valitse kaikki säilötyypit</fi>							
 			<ru>Выбрать все типы контейнеров</ru>
 			<nl>Selecteer alle containertypes</nl>
 			<cz>Vyberte všechny typy kontejnerů</cz>
@@ -403,6 +414,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Fasten/Unfasten tension belts</en>
 			<de>Spanngurte anbringen/lösen</de>
 			<fr>Attacher/détacher les sangles de serrage</fr>
+			<fi>Kiinnitä/irrota kuolmaliinat</fi>							 
 			<ru>Прикрепить/открепить ремни</ru>
 			<nl>Spanbanden vast-/losmaken</nl>
 			<cz>Zapnout/odepnout upínací pásy</cz>
@@ -412,6 +424,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Open/Close rear door</en>
 			<de>Hintertür Öffnen/Schließen</de>
 			<fr>Ouvrir/fermer la porte arrière</fr>
+			<fi>Avaa/sulje takaovi</fi>				  
 			<ru>Открыть/Закрыть заднюю дверь</ru>
 			<nl>Openen/sluiten achterdeur</nl>
 			<cz>Otevřít/zavřít zadní dveře</cz>
@@ -421,6 +434,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Open/Close curtain side</en>
 			<de>Plane öffnen/schließen</de>
 			<fr>Ouvrir/fermer la bâche</fr>
+			<fi>Avaa/sulje verho</fi>				
 			<ru>Открыть/Закрыть боковой тент</ru>
 			<nl>Openen/sluiten schuifzeil</nl>
 			<cz>Otevřít/zavřít boční závěs</cz>
@@ -430,6 +444,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Debug mode</en>
 			<de>Debug-Modus</de>
 			<fr>Mode débogage</fr>
+			<fi>Debug mode</fi>		  
 			<ru>Режим отладки</ru>
 			<nl>Debug-modus</nl>
 			<cz>Režim ladění</cz>
@@ -440,6 +455,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Unloading area is blocked. Please clear the unloading area.</en>
 			<de>Der Entladebereich ist blockiert. Bitte räumen Sie den Abladebereich.</de>
 			<fr>La zone de déchargement est bloquée. Veuillez libérer la zone de déchargement.</fr>
+			<fi>Purkualue ei ole tyhjä. Tyhjennä purkualue.</fi>											 
 			<ru>Зона разгрузки занята. Пожалуйста, очистите зону разгрузки.</ru>
 			<nl>Losplaats is geblokkeerd. Maak ruimte vrij op de losplaats.</nl>
 			<cz>Oblast vykládky je blokována. Vyčistěte prosím oblast vykládky.</cz>
@@ -449,6 +465,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>No compatible goods are available for loading or unloading.</en>
 			<de>Es sind keine kompatiblen Waren zum Be- oder Entladen vorhanden.</de>
 			<fr>Aucune marchandise compatible n'est disponible pour le chargement ou le déchargement.</fr>
+			<fi>Lataamiseen tai purkamiseen ei ole saatavilla yhteensopivia tavaroita.</fi>																	  
 			<ru>Нет совместимых товаров для погрузки или разгрузки.</ru>
 			<nl>Er zijn geen ondersteunde producten gevonden voor het in- en uitladen.</nl>
 			<cz>Žádné kompatibilní zboží není k dispozici pro nakládku nebo vykládku.</cz>
@@ -458,6 +475,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Loading area is full. Unable to load any more items of this size.</en>
 			<de>Der Ladebereich ist voll. Es können keine weiteren Artikel dieser Größe geladen werden.</de>
 			<fr>La zone de chargement est pleine. Impossible de charger d'autres articles de cette taille.</fr>
+			<fi>Latausalue on täynnä. Ei voi ladata enempää tämän kokoisia kohteita.</fi>																		  
 			<ru>Загрузочное пространство заполнено. Невозможно загрузить больше предметов такого размера.</ru>
 			<nl>Laadruimte is vol. Kan geen items van deze grootte meer laden.</nl>
 			<cz>Ložná plocha je plná. Nelze načíst další položky této velikosti.</cz>
@@ -467,6 +485,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>No loading allowed unless stationary. Please come to a complete stop before loading the trailer.</en>
 			<de>Das Beladen ist nur im Stillstand erlaubt. Bitte halten Sie vor dem Beladen des Anhängers vollständig an.</de>
 			<fr>Le chargement est interdit à moins d'être à l'arrêt. Veuillez vous arrêter complètement avant de charger la remorque.</fr>
+			<fi>Kuormaus ei ole sallittua liikeessä. Pysähdy kokonaan ennen trailerin lataamista.</fi>																				   
 			<ru>Погрузка разрешена только в неподвижном состоянии. Перед погрузкой прицепа необходимо полностью остановиться.</ru>
 			<nl>Er mag niet geladen worden tenzij het voertuig stilstaat. Gelieve te stoppen met bewegen of de trailer opnieuw te laden.</nl>
 			<cz>Není povoleno nakládání za pohuybu. Před naložením přívěsu se prosím úplně zastavte.</cz>
@@ -476,6 +495,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Unloading side</en>
 			<de>Aktive entladeseite</de>
 			<fr>Côté actif</fr>
+			<fi>Purku puoli</fi>		   
 			<ru>Сторона разгрузки</ru>
 			<nl>Loszijde</nl>
 			<cz>Vykládací strana</cz>
@@ -485,6 +505,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Left</en>
 			<de>Links</de>
 			<fr>Gauche</fr>
+			<fi>Vasen</fi>	 
 			<ru>Слева</ru>
 			<nl>Links</nl>
 			<cz>Vlevo</cz>
@@ -494,6 +515,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Right</en>
 			<de>Rechts</de>
 			<fr>Droit</fr>
+			<fi>Oikea</fi>	 
 			<ru>Справа</ru>
 			<nl>Rechts</nl>
 			<cz>Vpravo</cz>
@@ -503,6 +525,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>None</en>
 			<de>Keine</de>
 			<fr>Aucun</fr>
+			<fi>Ei mitään</fi>		   
 			<ru>Нет</ru>
 			<nl>Niks</nl>
 			<cz>Nic</cz>
@@ -512,6 +535,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Loading filter</en>
 			<de>Ladefilter</de>
 			<fr>Choix du chargement</fr>
+			<fi>Lastaus suodatin</fi>				
 			<ru>Фильтр загрузки</ru>
 			<nl>Laad filter</nl>
 			<cz>Filtr nakládky</cz>
@@ -521,6 +545,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Full only</en>
 			<de>Nur volle</de>
 			<fr>Complet uniquement</fr>
+			<fi>Vain täysi</fi>		   
 			<ru>Только полные</ru>
 			<nl>Alleen volle</nl>
 			<cz>Pouze plné</cz>
@@ -530,6 +555,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Any</en>
 			<de>Jede</de>
 			<fr>Tout</fr>
+			<fi>Kaikki</fi>	  
 			<ru>Любой</ru>
 			<nl>Alles</nl>
 			<cz>Vše</cz>
@@ -539,6 +565,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Start loading</en>
 			<de>Laden starten</de>
 			<fr>Démarrer chargement</fr>
+			<fi>Aloita lastaus</fi>			  
 			<ru>Начать загрузку</ru>
 			<nl>Start laden</nl>
 			<cz>Začít nakládku</cz>
@@ -548,6 +575,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Stop loading</en>
 			<de>Laden stoppen</de>
 			<fr>Arrêter le chargement</fr>
+			<fi>Lopeta lastaus</fi>			  
 			<ru>Остановить загрузку</ru>
 			<nl>Stop laden</nl>
 			<cz>Zastavit nakládku</cz>
@@ -557,6 +585,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Unload</en>
 			<de>Abladen</de>
 			<fr>Décharger</fr>
+			<fi>Pura</fi>	
 			<ru>Разгрузка</ru>
 			<nl>Lossen</nl>
 			<cz>Vyložit</cz>
@@ -566,6 +595,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Material type</en>
 			<de>Materialtyp</de>
 			<fr>Marchandise sélectionnée</fr>
+			<fi>Materiaali tyyppi</fi>				 
 			<ru>Тип материала</ru>
 			<nl>Producttype</nl>
 			<cz>Typ materiálu</cz>
@@ -575,6 +605,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Container type</en>
 			<de>Containertyp</de>
 			<fr>Conditionnement sélectionné</fr>
+			<fi>Säilön tyyppi</fi>			   
 			<ru>Тип контейнера</ru>
 			<nl>Containertype</nl>
 			<cz>Typ kontejneru</cz>
@@ -583,6 +614,7 @@ TRANSLATION - PL by ELRICOFATAL
 		<text name="universalAutoload_ALL">
 			<en>All</en>
 			<de>Alle</de>
+			<fi>Kaikki</fi>	  
 			<fr>Tous</fr>
 			<ru>Все</ru>
 			<nl>Alles</nl>
@@ -593,6 +625,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>IBC Tank</en>
 			<de>Flüssigkeitstank</de>
 			<fr>Réservoir de liquide IBC</fr>
+			<fi>IBC-Tankki</fi>		  
 			<ru>IBC-бак</ru>
 			<nl>IBC VloeistofTank</nl>
 			<cz>IBC nádrž</cz>
@@ -602,6 +635,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Euro Pallet</en>
 			<de>Euro-Palette</de>
 			<fr>Palette euro</fr>
+			<fi>Kuormalava</fi>		  
 			<ru>Европоддон</ru>
 			<nl>Europallet</nl>
 			<cz>Europaleta</cz>
@@ -611,6 +645,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Pioneer Pallet</en>
 			<de>Pioneer-Palette</de>
 			<fr>Palette pioneer</fr>
+			<fi>Pioneer lava</fi>			
 			<ru>Поддон Pioneer</ru>
 			<nl>Pioneer-pallet</nl>
 			<cz>Pioneer paleta</cz>
@@ -620,6 +655,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Bigbag Pallet</en>
 			<de>Bigbag-Palette</de>
 			<fr>Palette de big bag</fr>
+			<fi>Suursäkki-lava</fi>			   
 			<ru>Поддон Bigbag</ru>
 			<nl>Bigbag-pallet</nl>
 			<cz>Bigbag paleta</cz>
@@ -629,6 +665,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Bigbag</en>
 			<de>Bigbag</de>
 			<fr>Big bag</fr>
+			<fi>Suursäkki</fi>		  
 			<ru>Bigbag</ru>
 			<nl>Bigbag</nl>
 			<cz>Bigbag</cz>
@@ -638,6 +675,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Potato Box</en>
 			<de>Kartoffelkiste</de>
 			<fr>Palox pommes de terre</fr>
+			<fi>Perunalaatikko</fi>			  
 			<ru>Ящик картофеля</ru>
 			<nl>Aardappelkist</nl>
 			<cz>Krabice brambor</cz>
@@ -647,6 +685,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Bale</en>
 			<de>Ballen</de>
 			<fr>Balle</fr>
+			<fi>Paali</fi>	 
 			<ru>Тюк</ru>
 			<nl>Balen</nl>
 			<cz>Balík</cz>
@@ -656,6 +695,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Round bale</en>
 			<de>Rundballen</de>
 			<fr>Balle Ronde</fr>
+			<fi>Pöyröpaali</fi>			
 			<ru>Круглый рулон</ru>
 			<nl>Ronde balen</nl>
 			<cz>Kulatý balík</cz>
@@ -665,6 +705,7 @@ TRANSLATION - PL by ELRICOFATAL
 			<en>Square bale</en>
 			<de>Quaderballen</de>
 			<fr>Balle carrée</fr>
+			<fi>Neliöpaali</fi>			
 			<ru>Квадратный тюк</ru>
 			<nl>Vierkante balen</nl>
 			<cz>Hranatý balík</cz>
